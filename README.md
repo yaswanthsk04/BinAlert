@@ -38,6 +38,6 @@ Once the system is powered and all components are correctly configured, it will 
 - The Edge Impulse team for providing the tools and support needed for TinyML development.
 
 ## Demo
-- Project DEmo can be viewed through the link: https://drive.google.com/file/d/1sdM3bjLtpO-aVOasQOG5pRu-Pzt8wuOh/view?usp=sharing
+- Project DEmo can be viewed through the link: (Google Drive) {https://drive.google.com/file/d/1sdM3bjLtpO-aVOasQOG5pRu-Pzt8wuOh/view?usp=sharing}
 
 Feel free to reach out for any queries or collaboration opportunities.
